@@ -153,7 +153,7 @@
         "internal-squads": "Внутренние сквады",
         "first-connected-at": "Первое подключение",
         "sub-last-opened-at": "Последний запрос подписки",
-        "tag": "Tag"
+        "tag": "Тэг"
     },
     "header-buttons": {
         "feature": {}
@@ -385,11 +385,11 @@
         "port-description-line-1": "Порт подключения.",
         "port-description-line-2": "В большинстве случаев, должно совпадать с портом выбранного инбаунда.",
         "sni-description-line-1": "SNI is a server name indication.",
-        "sni-description-line-2": "If not specified, value from config's inbound will be used.",
+        "sni-description-line-2": "Если не указано, будет использовано значение из конфигурации инбаунда.",
         "host-visibility": "Видимость хоста",
         "server-description-description": "Только для приложения Happ.",
-        "select-one-inbound-to-apply-to-the-host": "Select one inbound to apply to the host",
-        "server-description-header": "Server Description",
+        "select-one-inbound-to-apply-to-the-host": "Выберите один инбаунд для применения к хосту",
+        "server-description-header": "Описание Cервера",
         "server-description-line-1": "Эта функция доступна только для Happ со значением ProviderID. См.",
         "server-description-line-2": "документацию Happ",
         "server-description-line-3": "для дополнительной информации.",
@@ -829,7 +829,7 @@
             "timestamps": "Временные метки",
             "created-at": "Дата создания",
             "updated-at": "Дата обновления",
-            "tag": "Tag",
+            "tag": "Тэг",
             "first-connected-at": "Первое подключение",
             "active-internal-squads": "Активные внутренние сквады"
         }
